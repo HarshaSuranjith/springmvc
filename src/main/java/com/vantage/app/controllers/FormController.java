@@ -1,4 +1,4 @@
-package com.vantage.controllers;
+package com.vantage.app.controllers;
 
 /**
  * Created by harsha on 9/16/16.

@@ -1,4 +1,4 @@
-package com.vantage.controllers;
+package com.vantage.app.controllers;
 
 import com.sun.org.apache.regexp.internal.RE;
 import org.springframework.stereotype.Controller;
